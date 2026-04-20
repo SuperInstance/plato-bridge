@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+src/plato_bridge/__init__.py
+src/plato_bridge/bridge.py
+src/plato_bridge.egg-info/PKG-INFO
+src/plato_bridge.egg-info/SOURCES.txt
+src/plato_bridge.egg-info/dependency_links.txt
+src/plato_bridge.egg-info/top_level.txt
